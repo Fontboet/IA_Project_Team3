@@ -12,3 +12,6 @@ Then, in execution, change execution type to a GPU one.
 - Python 3
 <!-- - Launch the ./setup.sh file -->
 - [Kaggle Dataset](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
+
+## Sources
+- [Attention based UNet model for breast cancer segmentation using BUSI dataset](https://www.nature.com/articles/s41598-024-72712-5)
